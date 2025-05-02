@@ -1,0 +1,77 @@
+.footer{
+    height: 317px;
+    background-color: #111820;
+    padding: 42px 134px 0 135px;
+    color: white;
+}
+.footersm{
+    height: 390px;
+    background-color: #111820;
+    padding: 62px 35px 0 33px;
+    color: white;
+}
+.firstSection{
+    width: 350px;
+}
+.firstSectionsm{
+    width: 325px;
+}
+.secondSection{
+    width: 143px;
+}
+.secondSectionsm{
+    width: 300px;
+}
+.thirdSection{
+    width: 366px;
+}
+.aboutCompany{
+    margin-top: 30px;
+    height: 97px;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+}
+.company{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.companythings{
+    margin-top: 32px;
+    cursor: pointer;
+}
+.companythingssm{
+    margin-top: 8px;
+    cursor: pointer;
+}
+.companythings p{
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+}
+.companythingssm p{
+    font-weight: 400;
+    font-size: 12px;
+    cursor: pointer;
+}
+.Emialfield{
+    margin-top: 31px;
+}
+.inputfield{
+    height: 38px;
+    width: 259px;
+    border-radius: 4px;
+    border: 1px solid #6b7280;
+    background-color: #152937;
+    padding: 20px;
+    color: #fff;
+}
+.buttonfield{
+    margin-left: 10px;
+}
+.copyrigth{
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
