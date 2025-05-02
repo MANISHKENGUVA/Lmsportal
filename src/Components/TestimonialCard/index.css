@@ -1,0 +1,47 @@
+.maincard{
+    height: 225px;
+    width: 322px;
+    border-radius: 8px;
+}
+.cardUpperPart{
+    height: 78px;
+    background-color: #f3f3f3;
+}
+.cardLowerPart{
+
+}
+.usericon{
+    height: 50px;
+    width: 50px;
+}
+.username{
+    height: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:500;
+    font-size: 18px;
+    vertical-align: middle;
+    color: #4b445a;
+}
+.rolename{
+    height: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:500;
+    font-size: 12px;
+    vertical-align: middle;
+    color: #4b445a; 
+}
+.ratingstars{
+    width: 120px;
+}
+.review{
+    height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:400;
+    font-size: 14px;
+    color: #6b7280; 
+    word-wrap:break-word;
+    overflow-y: scroll;
+}
+.review::-webkit-scrollbar {
+    display: none; 
+  }
