@@ -2,9 +2,7 @@
 import React from 'react';
 import CustomButton from './Components/Buttons/index'
 import TestimonalCard from "./Components/TestimonialCard/index"
-import CourseCardJSon from './Json/Coursecard.json';
-import CourseCard from './Components/CourseCard/index';
-import Star from './Components/svg/Star'
+import Footer from "./Components/FotterComp/Footer"
 function App() {
 
   return (
