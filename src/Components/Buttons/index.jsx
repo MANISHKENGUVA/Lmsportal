@@ -2,7 +2,7 @@ import React from 'react';
 
 const CustomButton=(
     {height="45px",
-    // width="175px",
+    
     radius="1px",
     label="button",
     backgroundColor="#FFF",
@@ -12,7 +12,7 @@ const CustomButton=(
 )=>{
  const buttonStyle={
     height,
-    // width,
+    width:"100%",
     backgroundColor,
     borderRadius: radius,
     color:color,
