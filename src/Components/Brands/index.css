@@ -1,0 +1,8 @@
+.BrandNames{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: 16px;    
+}
+.brands{
+    flex-wrap: wrap;
+}
