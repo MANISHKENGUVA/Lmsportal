@@ -1,0 +1,151 @@
+.LHeading-course{
+    font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0;
+  vertical-align: middle;
+}
+
+.Ltext-style {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0;
+    vertical-align: middle;
+    color: #565656;
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
+
+  .Lcustom-style {
+    
+    font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 100%;
+  letter-spacing: 0;
+  vertical-align: middle;
+  color: #0E0E0E;
+ 
+  height: 43px;
+  display: flex;
+  align-items: center; /
+  }
+  .brr{
+    border-radius: 10px;
+  }
+  .offer-text {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0;
+    width: 183px;
+    height: 34px;
+    display: flex;
+    align-items: center; /* vertically center text */
+    vertical-align: middle; /* fallback */
+    color:#FF4B4B;
+  }
+  
+  .bold {
+    font-weight: 600;
+  }
+  
+  .normal {
+    font-weight: 400;
+  }
+  
+  .strike-price {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0;
+    vertical-align: middle;
+    text-decoration: line-through;
+    color: #545454;
+ /* Assuming same color as previous — adjust if different */
+    width: 60px;
+    height: 23px;
+    display: flex;
+    align-items: center; /* vertical centering */
+    margin-top: 10px;
+    margin-left: 12px;
+  }
+  .discount-badge {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0;
+    vertical-align: middle;
+    color:#545454; /* white text for contrast */
+   
+    width: 70px;
+    height: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+     /* optional for slightly rounded badge */
+     /* optional for slightly rounded badge */
+     /* optional for slightly rounded badge */
+     /* optional for slightly rounded badge */
+     margin-top: 10px;
+  }
+
+  .rating-value {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #404040;
+  
+    height: 16px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+  .line-separator {
+    width: 16px;
+    height: 1px;
+    background-color: #6C6C6C;
+    transform: rotate(-90deg);
+    margin-top: 16px;
+    
+  }
+
+  .course-heading {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #333333;
+    width: 271px;
+    height: 23px;
+    display: flex;
+    align-items: center; /* vertical alignment: middle */
+  }
+  .course-description {
+    margin: 5px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #656565;
+    width: 324px;
+    height: 18px;
+    display: flex;
+    align-items: center; /* vertical alignment: middle */
+  }
+  
+  
+  
+  
+  

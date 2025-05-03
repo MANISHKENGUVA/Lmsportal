@@ -1,0 +1,230 @@
+[
+    {
+      "title": "React.js Tutorial for Beginners",
+      "instructor": "Maximilian Schwarzmüller",
+      "rating": 3,
+      "reviews": 2000,
+      "price": "Free",
+      "category": "React",
+      "tags": ["React", "JavaScript", "Frontend Development"],
+      "suggested_youtube_video": "src/assets/course_1.png",
+      "description": "This comprehensive React.js tutorial is designed for beginners looking to master modern web development. Learn the fundamentals of React, including components, state, props, and hooks, through hands-on projects. Perfect for aspiring frontend developers aiming to build dynamic, interactive user interfaces.",
+      "course_structure": [
+        {
+          "section_title": "Course Introduction",
+          "lectures": [
+            { "lecture_title": "Welcome to React.js", "duration": "8 mins" },
+            { "lecture_title": "What is React and Why Use It?", "duration": "12 mins" },
+            { "lecture_title": "Setting Up Your Development Environment", "duration": "15 mins" }
+          ]
+        },
+        {
+          "section_title": "React Fundamentals",
+          "lectures": [
+            { "lecture_title": "Understanding Components", "duration": "10 mins" },
+            { "lecture_title": "JSX Basics", "duration": "12 mins" },
+            { "lecture_title": "Props and State", "duration": "15 mins" },
+            { "lecture_title": "Event Handling in React", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Building a Mini Project",
+          "lectures": [
+            { "lecture_title": "Project Setup", "duration": "10 mins" },
+            { "lecture_title": "Creating Reusable Components", "duration": "12 mins" },
+            { "lecture_title": "Managing State", "duration": "12 mins" },
+            { "lecture_title": "Styling Components", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Advanced React Concepts",
+          "lectures": [
+            { "lecture_title": "React Hooks Introduction", "duration": "15 mins" },
+            { "lecture_title": "useState and useEffect", "duration": "12 mins" },
+            { "lecture_title": "Fetching Data with React", "duration": "12 mins" },
+            { "lecture_title": "Routing with React Router", "duration": "15 mins" }
+          ]
+        },
+        {
+          "section_title": "Project Deployment",
+          "lectures": [
+            { "lecture_title": "Preparing for Deployment", "duration": "10 mins" },
+            { "lecture_title": "Deploying to Netlify", "duration": "12 mins" },
+            { "lecture_title": "Testing Your Application", "duration": "10 mins" },
+            { "lecture_title": "Final Q&A", "duration": "8 mins" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "React Crash Course 2021",
+      "instructor": "Brad Traversy",
+      "rating": 4,
+      "reviews": 1500,
+      "price": "Free",
+      "category": "React",
+      "tags": ["React", "JavaScript", "Frontend Development"],
+      "suggested_youtube_video": "src/assets/course_2.png",
+      "description": "Dive into React.js with this fast-paced crash course updated for 2021. Build real-world applications while learning key concepts like components, hooks, and state management. Ideal for developers who want to quickly get up to speed with React and start building modern web apps.",
+      "course_structure": [
+        {
+          "section_title": "Course Overview",
+          "lectures": [
+            { "lecture_title": "Introduction to the Crash Course", "duration": "10 mins" },
+            { "lecture_title": "React in 2021 – What’s New?", "duration": "12 mins" },
+            { "lecture_title": "Tools and Setup", "duration": "15 mins" }
+          ]
+        },
+        {
+          "section_title": "Core React Concepts",
+          "lectures": [
+            { "lecture_title": "Components and JSX", "duration": "12 mins" },
+            { "lecture_title": "Props and Component Communication", "duration": "10 mins" },
+            { "lecture_title": "State Management Basics", "duration": "12 mins" },
+            { "lecture_title": "Handling User Input", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Building a Todo App",
+          "lectures": [
+            { "lecture_title": "Project Setup", "duration": "10 mins" },
+            { "lecture_title": "Creating the UI", "duration": "12 mins" },
+            { "lecture_title": "Managing Todos with State", "duration": "12 mins" },
+            { "lecture_title": "Adding Interactivity", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "React Hooks Deep Dive",
+          "lectures": [
+            { "lecture_title": "What are Hooks?", "duration": "12 mins" },
+            { "lecture_title": "useState in Action", "duration": "10 mins" },
+            { "lecture_title": "useEffect for Side Effects", "duration": "12 mins" },
+            { "lecture_title": "Custom Hooks", "duration": "15 mins" }
+          ]
+        },
+        {
+          "section_title": "Final Project and Deployment",
+          "lectures": [
+            { "lecture_title": "Building a Portfolio App", "duration": "15 mins" },
+            { "lecture_title": "Integrating APIs", "duration": "12 mins" },
+            { "lecture_title": "Deploying to Vercel", "duration": "10 mins" },
+            { "lecture_title": "Course Wrap-Up", "duration": "8 mins" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "React.js Tutorial for Beginners",
+      "instructor": "Maximilian Schwarzmüller",
+      "rating": 5,
+      "reviews": 2000,
+      "price": "Free",
+      "category": "React",
+      "tags": ["React", "JavaScript", "Frontend Development"],
+      "suggested_youtube_video": "src/assets/course_3.png",
+      "description": "Master React.js from scratch with this beginner-friendly tutorial. Explore React’s core concepts, build real-world projects, and learn how to create scalable web applications. This course is perfect for those new to frontend development or looking to solidify their React skills.",
+      "course_structure": [
+        {
+          "section_title": "Getting Started",
+          "lectures": [
+            { "lecture_title": "Course Introduction", "duration": "8 mins" },
+            { "lecture_title": "Why Learn React?", "duration": "10 mins" },
+            { "lecture_title": "Installing Node.js and VS Code", "duration": "12 mins" }
+          ]
+        },
+        {
+          "section_title": "React Basics",
+          "lectures": [
+            { "lecture_title": "Creating Your First Component", "duration": "10 mins" },
+            { "lecture_title": "JSX Syntax", "duration": "12 mins" },
+            { "lecture_title": "Props and State Management", "duration": "15 mins" },
+            { "lecture_title": "Event Listeners in React", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Building a Shopping List App",
+          "lectures": [
+            { "lecture_title": "Project Overview", "duration": "10 mins" },
+            { "lecture_title": "Designing the UI", "duration": "12 mins" },
+            { "lecture_title": "State for Dynamic Lists", "duration": "12 mins" },
+            { "lecture_title": "Adding User Interactions", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Intermediate React",
+          "lectures": [
+            { "lecture_title": "React Hooks Overview", "duration": "12 mins" },
+            { "lecture_title": "useState and useEffect Hooks", "duration": "12 mins" },
+            { "lecture_title": "Fetching Data from APIs", "duration": "15 mins" },
+            { "lecture_title": "Basic Routing", "duration": "12 mins" }
+          ]
+        },
+        {
+          "section_title": "Deployment and Wrap-Up",
+          "lectures": [
+            { "lecture_title": "Optimizing Your App", "duration": "10 mins" },
+            { "lecture_title": "Deploying to Firebase", "duration": "12 mins" },
+            { "lecture_title": "Testing and Debugging", "duration": "10 mins" },
+            { "lecture_title": "Next Steps in React", "duration": "8 mins" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "React.js Tutorial for Beginners",
+      "instructor": "Maximilian Schwarzmüller",
+      "rating": 4,
+      "reviews": 2000,
+      "price": "Free",
+      "category": "React",
+      "tags": ["React", "JavaScript", "Frontend Development"],
+      "suggested_youtube_video": "src/assets/course_4.png",
+      "description": "Start your journey with React.js in this beginner-focused course. Learn to build interactive web applications with React’s powerful features, including components, state, and hooks. This course includes practical projects to help you apply your skills and prepare for a career in web development.",
+      "course_structure": [
+        {
+          "section_title": "Introduction to React",
+          "lectures": [
+            { "lecture_title": "What You’ll Learn", "duration": "8 mins" },
+            { "lecture_title": "React Overview", "duration": "10 mins" },
+            { "lecture_title": "Setting Up Your Workspace", "duration": "12 mins" }
+          ]
+        },
+        {
+          "section_title": "Core Concepts",
+          "lectures": [
+            { "lecture_title": "Components 101", "duration": "10 mins" },
+            { "lecture_title": "Working with JSX", "duration": "12 mins" },
+            { "lecture_title": "State and Props", "duration": "15 mins" },
+            { "lecture_title": "Handling Events", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Building a Weather App",
+          "lectures": [
+            { "lecture_title": "Project Setup", "duration": "10 mins" },
+            { "lecture_title": "Creating the Interface", "duration": "12 mins" },
+            { "lecture_title": "Fetching Weather Data", "duration": "12 mins" },
+            { "lecture_title": "Styling the App", "duration": "10 mins" }
+          ]
+        },
+        {
+          "section_title": "Exploring Hooks",
+          "lectures": [
+            { "lecture_title": "Introduction to Hooks", "duration": "12 mins" },
+            { "lecture_title": "Using useState", "duration": "10 mins" },
+            { "lecture_title": "Using useEffect", "duration": "12 mins" },
+            { "lecture_title": "Creating a Custom Hook", "duration": "15 mins" }
+          ]
+        },
+        {
+          "section_title": "Final Steps",
+          "lectures": [
+            { "lecture_title": "Preparing for Production", "duration": "10 mins" },
+            { "lecture_title": "Deploying to Heroku", "duration": "12 mins" },
+            { "lecture_title": "Testing Your App", "duration": "10 mins" },
+            { "lecture_title": "Course Summary", "duration": "8 mins" }
+          ]
+        }
+      ]
+    }
+  ]
