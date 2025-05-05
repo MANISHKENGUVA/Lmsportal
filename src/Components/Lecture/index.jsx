@@ -23,7 +23,7 @@ const Lecture = ({ title, duration, sendDataToParent }) => {
         </div>
 
        <div>
-        <span className="text-gray-600">{duration}</span>
+        <span className="text-gray-500">{duration}</span>
 
        </div>
       </div>
