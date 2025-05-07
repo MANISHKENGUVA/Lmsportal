@@ -4,6 +4,7 @@ import React, { useState, useRef } from 'react';
 import Lecture from '../Lecture';
 import Dropdown from '../svg/DropDown';
 import DropUpIcon from '../svg/DropUp';
+import "./index.css"
 
 const CourseContent = ({ data }) => {
   const cc = useRef(''); // Persist cc across renders
@@ -51,23 +52,23 @@ const CourseContent = ({ data }) => {
               )}
               {/* Your conditional rendering */}
               {/* Your conditional rendering */}
-              {cc.current == ''  ? '' : <p>{cc.current}</p>}
+              {/* {cc.current == ''  ? '' : <p>{cc.current}</p>} */}
             </div>
           </div>
 
           <div>
-            <h4 className="text-medium-dark">{data.section_title}</h4>
+            <p className="text-medium-dark">{data.section_title}</p>
           </div>
         </div>
 
-        <div className="d-flex">
-          <h6 className="text-medium-dark mx-2">{data.lectures.length}</h6>
-          <h6 className="text-medium-dark">Lectures</h6>
+        <div className="d-flex ">
+          <p className="text-medium-dark mx-2">{data.lectures.length}</p>
+          <p className="text-medium-dark">Lectures</p>
           <h2 className="text-medium-dark mx-1" style={{ marginTop: '-11px' }}>
             -
           </h2>
-          <h6 className="text-medium-dark mx-1">{getTotalSectionDuration(data)}</h6>
-          <h6 className="text-medium-dark mx-2">Minutes</h6>
+          <p className="text-medium-dark mx-1">{getTotalSectionDuration(data)}</p>
+          <p className="text-medium-dark ">Minutes</p>
         </div>
       </div>
 
