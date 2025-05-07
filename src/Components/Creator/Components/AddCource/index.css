@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.input1{
+    font-family: "Outfit";
+    width: 476px;
+    height: 40px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.input2{
+    font-family: "Outfit";
+    width: 476px;
+    height: 82px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.input3{
+    font-family: "Outfit";
+    width: 139px;
+    height: 40px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.label1{
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+
