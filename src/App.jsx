@@ -18,16 +18,6 @@ function App() {
 
   return (
     <>
-    {/* <pre>{JSON.stringify(LargeCourseCardJson[1].course_structure[0], null, 2)}</pre> */}
-
-    
-
-
-    {/* <CourseContent data={LargeCourseCardJson[0].course_structure[0]}/> */}
-    {/* <LearnAnytime></LearnAnytime> */}
-    {/* <NavBar></NavBar>
-    <SideBar></SideBar> */}
-    <Addcorce></Addcorce>
 
     </>
   )

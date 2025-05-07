@@ -4,11 +4,12 @@ import AddIcon from "../../../svg/AddIcon";
 import Mycource from "../../../svg/Mycource";
 import PersonTick from "../../../svg/PersonTick";
 import HomeIcon from "../../../svg/HomeIcon";
+import Addcorce from "../AddCource"
 const index = () => {
 
       return (
-        <div className="container1 d-none d-lg-block">
-          <aside className="sidebar">
+        <div className="container1">
+          <aside className="sidebar d-none d-md-block">
             <ul className="d-flex flex-column" style={{paddingLeft:'43px'}}>
               <li className="listyles d-flex align-items-center">
                 <div className="pe-2">
@@ -39,7 +40,7 @@ const index = () => {
           </aside>
     
           <main className="content">
-            
+            <Addcorce></Addcorce>
           </main>
         </div>
       );

@@ -1,13 +1,13 @@
 import './Footer.css'
 import Button from "./../Buttons/index"
-import DarkLogo from './../svg/LogoDark'
+import DarkLogo from './../svg/LogoDark' 
 function Footer(){
     return(
         <>
             <div className='footer d-none d-lg-block'>
             <div className='d-flex justify-content-evenly'>
                 <div className='firstSection'>
-                    <div >
+                    <div>
                         <DarkLogo Height={34} Width={115}></DarkLogo>
                     </div>
                     <div className='aboutCompany'>
