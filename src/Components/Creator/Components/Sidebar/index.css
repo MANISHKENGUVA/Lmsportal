@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.container1 {
+    display: flex;
+}
+
+.sidebar {
+    width: 251px;
+    height: 100vh;
+    border-right: 2px solid #637083;
+    padding: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    display: flex;
+    margin: 15px 0;
+    cursor: pointer;
+}
+
+.listyles {
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+
+}
+
+.sidebar .active {
+    background: #e5eaff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.content {
+    flex: 1;
+    padding: 30px;
+    position: relative;
+}
+
+.profile-box {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.course-form input,
+.course-form textarea {
+    display: block;
+    width: 50%;
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.price-thumb-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.course-form button {
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
