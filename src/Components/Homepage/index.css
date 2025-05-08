@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+.header {
+
+    /* height: 521px; */
+    background-image: linear-gradient(to bottom, #E6FFFF, #ffffff);
+
+}
+
+.heading-Tab {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #637083;
+    padding: 16px 144px;
+
+}
+
+.logo-svg {
+    width: 115px;
+    height: 34px;
+}
+
+
+
+.header-content {
+    display: flex;
+
+    /* padding: 14px 169px 14px 0; */
+
+}
+
+/* .borderb {
+    border-left: 2px solid #A9A9A9;
+    height: 21px;
+    margin-top: 11px;
+} */
+
+
+.header-passage {
+    padding-right: 19px;
+    padding-top: 11px;
+}
+
+.content {
+
+    padding-top: 144px;
+    margin: 0 128px;
+
+
+}
+
+.content p {
+    font-family: 'Outfit', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    color: #0E0E0E;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+
+    margin-bottom: 0px;
+
+}
+
+
+
+.highlight {
+    position: relative;
+    color: #2563EB;
+}
+
+.sketch-underline {
+    position: absolute;
+    right: 153px;
+    top: 326px;
+    width: 217px;
+    pointer-events: none;
+}
+
+.content-next {
+
+    margin: 28px 176px 0;
+
+}
+
+.content-next p {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #565656;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 0;
+
+}
+
+.searchbar {
+    /* padding: 43px 420px 70px 421px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #6B728033;
+    border-radius: 2px;
+    height: 46px;
+    margin: 28px;
+    width: 575px;
+    margin-left: 229px;
+
+}
+
+.searchbar input {
+    border: none;
+
+}
+
+
+@media(min-width:1280px) and (max-width: 1439px) {
+    .main {
+        margin: 0 256px;
+    }
+
+    .content p {
+        font-size: 48px;
+    }
+
+    .content {
+        margin: 0;
+    }
+
+    .content-next {
+        margin: 28px 0 0;
+    }
+
+    .sketch-underline {
+
+        right: 269px;
+        top: 333px;
+    }
+
+    .content-next p {
+        padding: 0 28px;
+        font-size: 16px;
+    }
+
+    .searchbar {
+        margin-left: 131px;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .content p {
+        font-size: 44px;
+    }
+
+    .main {
+        margin: 0 366px;
+    }
+
+    .content {
+
+        padding-top: 144px;
+        margin: 0
+    }
+
+    .content-next {
+        margin: 28px;
+    }
+
+    .sketch-underline {
+
+        right: 362px;
+        top: 325px;
+    }
+
+    .searchbar {
+        margin-left: 60px;
+    }
+
+}
+
+@media (min-width: 2560px) {
+
+    .content p {
+        font-size: 44px;
+    }
+
+    .main {
+        margin: 0 896px;
+    }
+
+    .content {
+
+        padding-top: 144px;
+        margin: 0
+    }
+
+    .content-next {
+        margin: 28px;
+    }
+
+    .sketch-underline {
+
+        right: 1000px;
+        top: 325px;
+    }
+
+    .searchbar {
+        margin-left: 69px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .heading-Tab {
+        padding: 16px 56px;
+    }
+
+    .main {
+        padding: 0 15px;
+    }
+
+    .content {
+        padding-top: 144px;
+        margin: 0;
+    }
+
+    .content p {
+        font-size: 46px;
+    }
+
+    .sketch-underline {
+        right: 9px;
+        top: 329px;
+        width: 231px;
+    }
+
+    .content-next {
+
+        margin: 28px 48px 0;
+    }
+
+    .content-next p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .searchbar {
+        /* padding: 30px 114px 70px 106px; */
+        margin: 28px 78px 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .main {
+        padding: 80px 28px 0 28px;
+    }
+
+    .heading-Tab {
+        padding: 16px;
+    }
+
+    .content p {
+        font-size: 29px;
+    }
+
+    .content-next {
+        margin: 28px 0 0;
+    }
+
+    .sketch-underline {
+        display: none;
+    }
+
+    .content-next p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .searchbar {
+        margin: 28px 0 0;
+        width: 100%;
+        max-width: 100%;
+
+    }
+
+    .content {
+
+        padding: 0;
+        margin: 0;
+
+
+    }
+
+
+}

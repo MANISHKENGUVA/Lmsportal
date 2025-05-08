@@ -7,7 +7,7 @@ const CustomButton=(
     label="button",
     backgroundColor="#FFF",
     color="#8A8C8F",
-    border="none",
+    border="",
     click=()=>{}}
 )=>{
  const buttonStyle={

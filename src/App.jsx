@@ -2,11 +2,15 @@
 import React from 'react';
 import CustomButton from './Components/Buttons/index'
 import TestimonalCard from "./Components/TestimonialCard/index"
-import Footer from "./Components/FotterComp/Footer"
+import Homepage from './Components/Homepage/index'
 function App() {
 
   return (
     <>
+  <Homepage>
+    </Homepage>
+
+      
     </>
   )
 }
