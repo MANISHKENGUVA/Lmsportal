@@ -18,15 +18,7 @@ function HomePage() {
             <div className=''>
               <Logo  />
             </div>
-            {/* <div className='header-content'>
-                <p className='header-passage'>Add Courses</p>
-                <div className='borderb'></div>
-                <p className='header-passagelogin'>Login</p>
-                <CustomButton label='Create Account'
-                backgroundColor='#2563EB'
-                color='#fff' 
-                radius='50px'/>
-            </div> */}
+        
             <div className='header-content d-none d-md-flex align-items-center'>
   {/* <p className='header-passage mb-0'>Add Courses</p> */}
   {/* <div className='borderb mx-2'></div> */}
